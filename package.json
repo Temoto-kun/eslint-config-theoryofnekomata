@@ -1,0 +1,24 @@
+{
+  "name": "@theoryofnekomata/eslint-config-theoryofnekomata",
+  "version": "0.1.0",
+  "description": "My personal ESLint configuration.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temoto-kun/eslint-config-theoryofnekomata.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Temoto-kun <kiiroifuriku@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Temoto-kun/eslint-config-theoryofnekomata/issues"
+  },
+  "homepage": "https://github.com/Temoto-kun/eslint-config-theoryofnekomata#readme"
+}
