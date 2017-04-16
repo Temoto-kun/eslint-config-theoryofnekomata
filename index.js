@@ -8,7 +8,8 @@ module.exports = {
     }
   },
   "env": {
-    "commonjs": true
+    "commonjs": true,
+    "node": true
   },
   "rules": {
     "valid-jsdoc": "error",

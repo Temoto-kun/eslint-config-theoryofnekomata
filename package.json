@@ -1,5 +1,5 @@
 {
-  "name": "@theoryofnekomata/eslint-config-theoryofnekomata",
+  "name": "eslint-config-theoryofnekomata",
   "version": "0.1.0",
   "description": "My personal ESLint configuration.",
   "main": "index.js",
